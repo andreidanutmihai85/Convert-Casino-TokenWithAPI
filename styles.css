@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    flex-direction:column; 
+    justify-content: space-around;
+    align-items: center;
+    font-size: 23px;
+    background-color: rgb(33, 241, 14);
+    width: 100%;
+    border: 1px solid green;
+}
+
+
+.div{
+    text-align: center;
+    margin: 10px 10px;
+}
+
+
+#input{
+    border-radius: 10px;
+    height: 20px;
+    border-color: rgb(25, 248, 17);  
+}
+
+
+#input {
+    background-color:white;
+}
+
+
+#introduText{
+    background-color: rgb(75, 42, 224);
+    color:rgb(255, 255, 255);
+    font-size: 30px;  
+}
+
+#afisare{
+  color: red;
+}
+
+#afisare2{
+    color:rgb(5, 4, 8);
+    background-color:rgb(30, 255, 30);
+  }
